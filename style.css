@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    background-image: url(://www.google.com/?=https%3A%2F%2Fi0.wp.com%2Fgoelgangadevelopments.com%2Fwp-content%2Fuploads%2F2021%2F04%2FEuro-School-Kharadi-featured.jpg%3Ffit%3D1200%252C675%26ssl%3D1&imgrefurl=https%3A%2F%2Fgoelgangadevelopments.com%2Fproject%2Feuro-school-kharadi%2F&tbnid=7uFzYQ-YMeWi_M&vet=12ahUKEwjs6o-yx_vzAhUgtmMGHdBpCXkQMygCegUIARDLAQ..i&docid=Duaz3Mk8kD3lOM&w=1200&h=675&q=euro%20school&ved=2ahUKEwjs6o-yx_vzAhUgtmMGHdBpCXkQMygCegUIARDLAQ);
+    background-size: cover;
+    background-color: lime;
+    text-decoration: none;
+    text-transform: none ;
+    
+    }
+    
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    
+    div{
+        background-color: rgb(255, 20, 157);
+        width: 1000px;
+        height: 120px;
+        border: 3px solid rgb(29, 190, 24);
+        border-radius: 30px 30px 0px 0px;
+        margin-left: 250px;
+    }
+    
+    section{
+        width: 700px;
+        height: 700px;
+        background-color: rgb(45, 201, 221);
+        border: 3px solid rgb(253, 105, 19);
+        border-radius: 0px 0px 30px 30px;
+        margin-left: 250px;
+    }
+    
+    #Question{
+    font-weight: 600;
+    }
+    
+    label{
+        font-size: 20px;
+    }
+    image{
+        width: 250px;
+        height: 150px;   
+        margin-top: -80px;
+        border-radius: 25%;
+        border: 3px solid gold;
+    }
+    
+    
+    
+    h1{
+        font-size: 50px;
+        color: rgb(9, 83, 3);
+    }
+    
+    h2{
+        font-size: 40px;
+        color: rgb(255, 0, 43);
+    
+    }
+    
+    button{
+        height: 30px;
+        width:  60px;
+        background-color: aqua;
+    }
+    
